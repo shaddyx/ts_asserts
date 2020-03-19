@@ -5,6 +5,7 @@ export default class Asserts {
     static assertTrue(val: any, msg?: ErrFunc): void;
     static assertFalse(val: any, msg?: ErrFunc): void;
     static assertDefined(val: any, msg?: ErrFunc): void;
+    static assertNotEmpty(val: any, msg?: ErrFunc): void;
     static assertEquals(val: any, val1: any, msg?: ErrFunc): void;
     static assertNotEquals(val: any, val1: any, msg?: ErrFunc): void;
 }
