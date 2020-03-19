@@ -66,8 +66,8 @@
         "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
       },
       "./src/Asserts.ts": {
-        "version": "2ffefb06e53c6c53225dd7522ac0c9586003b40f6630aeddcee464d5951708a8",
-        "signature": "d936747f905dff4f33b41af1b37b71aa9ccd43755e1d1d85368e41ae2da827e6"
+        "version": "ba9883c5064252bc3f6979fc76fb462f405602ab52fd77d16a2520b3d77a9f48",
+        "signature": "608037915effc21549c5d12461db5f80b9654556e8417408dfe578ae3144d113"
       }
     },
     "options": {
@@ -91,9 +91,8 @@
     "exportedModulesMap": {},
     "semanticDiagnosticsPerFile": [
       "../../.npm-global/lib/node_modules/typescript/lib/lib.es6.d.ts",
-      "./src/Asserts.ts",
-      "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.dom.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
@@ -106,7 +105,8 @@
       "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
       "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts"
+      "../../.npm-global/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "./src/Asserts.ts"
     ]
   },
   "version": "3.8.0-beta"
