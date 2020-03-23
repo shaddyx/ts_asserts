@@ -28,7 +28,7 @@ export default class Asserts {
         }
     }
     public static assertNotEmpty(val: any, msg:ErrFunc = "Value should be not empty"){
-        if (val){
+        if (!val){
             throw this.assertionMsg(msg);
         }
     }
